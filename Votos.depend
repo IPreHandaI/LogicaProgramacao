@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678542468 source:c:\xampp\htdocs\programação\código de casa\votos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
