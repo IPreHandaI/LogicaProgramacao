@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679147097 source:c:\xampp\htdocs\programação\código de casa\logicaprogramacao\gasolinaalcool\main.c
+	<stdio.h>
+	<string.h>
+
