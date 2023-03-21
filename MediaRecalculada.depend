@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679272822 source:c:\xampp\htdocs\programação\código de casa\logicaprogramacao\mediarecalculada\main.c
+	<stdio.h>
+	<stdlib.h>
+
