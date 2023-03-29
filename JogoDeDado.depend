@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680042671 source:c:\xampp\htdocs\programação\código de casa\logicaprogramacao\jogodedado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
